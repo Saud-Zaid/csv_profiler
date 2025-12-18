@@ -1,4 +1,10 @@
 .venv/
+
+outputs/
+
 __pycache__/
 *.pyc
-outputs/
+
+.streamlit/
+
+.DS_Store
